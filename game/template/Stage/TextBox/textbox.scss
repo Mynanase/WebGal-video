@@ -1,0 +1,43 @@
+.TextBox_main {
+  //background: linear-gradient(to bottom, rgba(255, 255, 255, 0.7) 0%, rgba(255, 255, 255, 0.5) 100%);
+}
+
+.TextBox_textElement_start {}
+
+.TextBox_textElement_Settled {}
+
+.text {}
+
+.outer {}
+
+.inner {}
+
+.TextBox_showName {}
+
+.outerName {}
+
+.innerName {}
+
+.miniAvatarContainer {}
+
+.miniAvatarImg {}
+
+@keyframes showSoftly {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes TextDelayShow {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
